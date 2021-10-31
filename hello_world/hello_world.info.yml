@@ -1,0 +1,6 @@
+name: Hello World Form
+type: module
+description: 'It is Helle World Module for Form'
+package: Custom
+version: '8.x-1.0'
+core: '8.x'

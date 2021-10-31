@@ -1,0 +1,9 @@
+hello_world.form:
+  path: '/hello-world-form'
+  defaults:
+    _form: '\Drupal\hello_world\Form\HelloWorldForm'
+    _title: 'My First Form'
+  options:
+    no_cache: 'TRUE'
+  requirements:
+    _access: 'TRUE'
